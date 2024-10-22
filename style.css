@@ -1,4 +1,42 @@
-h1,p,body{
+/* h1,p,body{
     color: brown;
     background-color: aqua;
+} */
+
+/* .main{
+    display: inline-flex;
+    
+}
+.one, .two,.three{
+    border: 2px solid blue;
+    width: 250px;
+    margin: 20px;
+} */
+ /* h1 {
+    color: white;
+    background-color: black;
+ }
+img{
+    width: 70px;
+    background-color: white;
+} */
+ /* .red{
+    color: red;
+ }
+ .green{
+    color: green;
+ }
+ .blue{
+    color: blue;
+ } */
+
+
+
+
+h1{
+    color: white;
+    
+}
+body{
+    background-color: black;
 }
